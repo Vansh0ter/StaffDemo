@@ -1,0 +1,12 @@
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/src/CMakeFiles/StaffDemo.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/src/CMakeFiles/StaffDemo.info.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/src/CMakeFiles/list_install_components.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/src/CMakeFiles/install.dir
+C:/Users/andre/Downloads/StaffDemo/out/build/x64-Debug/src/CMakeFiles/install/local.dir
